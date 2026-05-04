@@ -27,12 +27,6 @@ My expertise includes backend development, distributed systems, and modern softw
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
-
----
-
 ## 📚 Currently Exploring
 
 * Advanced microservices architecture
