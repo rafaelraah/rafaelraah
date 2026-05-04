@@ -4,6 +4,14 @@
 
 🚀 Specialized in scalable systems and modern software engineering
 
+❤️ Passionate about technology, gaming, finances, books, movies, tv series and people. 
+
+🎓 Degree in Systems Analysis and Development — UNICSUL
+
+🎓 Postgraduate MBA in Project Management (PMI-based practices) – São Judas Tadeu University (USJT)
+
+📚 Currently working as a Software Architect at Grupo Unip/Objetivo.
+
 📍 Brazil
 
 ---
