@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Rafael Nascimento
 
 💻 Software Architect
+
 🚀 Specialized in scalable systems and modern software engineering
+
 📍 Brazil
 
 ---
